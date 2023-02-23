@@ -1,13 +1,13 @@
 {
-  "name": "nodejs-file-system-task",
+  "name": "nodejs-filesystem",
   "version": "1.0.0",
   "description": "",
-  "main": "fileSystemTask.js",
+  "main": "index.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start":"node fileSystemTask.js",
-    "dev":"nodemon fileSystemTask.js"
+    "start":"node index.js",
+    "dev":"nodemon index.js"
   },
   "keywords": [],
   "author": "",
