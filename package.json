@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-file-system-task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fileSystemTask.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node fileSystemTask.js",
+    "dev":"nodemon fileSystemTask.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2"
+  }
+}
